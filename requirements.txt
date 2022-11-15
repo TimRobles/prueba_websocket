@@ -1,0 +1,8 @@
+auto-py-to-exe
+wheel
+Django==4.0.1
+unipath
+Pillow
+django-widget-tweaks
+channels
+websockets
