@@ -6,3 +6,4 @@ Pillow
 django-widget-tweaks
 channels
 websockets
+daphne
